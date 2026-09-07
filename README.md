@@ -74,7 +74,7 @@ Key scripts inside the Unity project:
    - `LSLInlet.cs` tries to resolve the stream every frame; once connected you'll see a `LSLInlet: connected to stream ...` line in the Console.
 
 4. **Run a training session**
-   - In the in-app menu, pick the affected side and body part, choose a scenario from the dropdown, then click "**Započni trening**"".
+   - In the in-app menu, pick the affected side and body part, choose a scenario from the dropdown, then click "**Započnite trening**".
    - The trial loop runs automatically for the configured number of trials, giving visual/audio feedback on each hit.
 
 <video src="READMEImages/door_demo.mp4" controls width="400"></video>
